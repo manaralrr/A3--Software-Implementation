@@ -6,3 +6,10 @@ This project aims to enhance the operational efficiency of The Best Events Compa
 
 ## UML Class Diagram
 ![uml](https://github.com/manaralrr/A3--Software-Implementation/assets/160352954/10d6faec-5a0b-4e00-9a46-01b5953c11ee)
+
+## Summary Learnings
+In this project, I learned how to design and implement a software system for managing an event management company. I started by creating a UML class diagram to represent the concepts and relationships in the system, including employees, events, clients, guests, and suppliers. I used different types of association and inheritance relationships where necessary to model the relationships between these entities.
+
+I then implemented the system using Python, using the Tkinter library to create a GUI. I added functionality to add, delete, modify, and display details of employees, events, clients, guests, and suppliers. I also implemented the ability to display all details of an employee, event, client, guest, or supplier given the ID number. Additionally, I used the Pickle library to store all details in binary files, ensuring that multiple binary files were used to store related information.
+
+Overall, this project helped me improve my skills in software design, object-oriented programming, GUI development, and data storage. I learned how to create a functional and user-friendly system that can effectively manage the operations of an event management company.
